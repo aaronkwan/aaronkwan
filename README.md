@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there. 👋
+
+### If you're here too early, sorry!
+
+### As I have just begun my exploration of all things software development, this place is still barren.
+
+### Check back soon! :)
+
+### - Aaron
+
 
 <!--
 **aaronkwan/aaronkwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
