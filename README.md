@@ -1,10 +1,12 @@
 # Hi there. 👋
 
-### If you're here too early, sorry!
+### Welcome to my GitHub!
 
-### As I have just begun my exploration of all things software development, this place is still barren.
+### I've been busy exploring the realm of software development.
 
-### Check back soon! :)
+### Check out my [latest project](https://www.npmjs.com/package/react-synced-object), where I developed a performant node.js package for state synchronization within a react app.
+
+### Stay tuned for more updates!
 
 ### - Aaron
 
