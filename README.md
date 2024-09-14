@@ -4,7 +4,7 @@ Welcome to my GitHub!
 
 I've been busy exploring the realm of software development.
 
-Check out my [latest project](https://www.npmjs.com/package/react-synced-object), where I developed a performant node.js package for state synchronization within a react app.
+Check out my [latest project](https://x.com/SpinToWin_Devs), where I'm developing a physics-based multiplayer fighting game from the ground up.
 
 Stay tuned for more updates!
 
